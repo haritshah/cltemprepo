@@ -9,7 +9,7 @@
 <title>Employees Details</title>
 </head>
 <body>
-	<h3>Employees Detaisl of Microsoft</h3>
+	<h3>Microsoft Employees</h3>
 	<table border=1>
 		<thead>
 			<tr>
